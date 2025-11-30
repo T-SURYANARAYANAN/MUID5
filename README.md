@@ -21,13 +21,13 @@ Android Studio(Min. required Artic Fox)
 7.Display Output: Update the tvResult TextView with the final answer or show an appropriate error message using Toast.
 
 ## PROGRAM:
-```
+```txt
 Program to print the text create your own content providers to get contacts details.
 Developed by: SURYANARAYANAN T
 Registeration Number : 212224040341
 ```
 ### MainActivity.java
-```
+```java
 package com.example.calculator;
 
 import android.os.Bundle;
@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ### activity_main.xml
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <!--<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
 <!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
